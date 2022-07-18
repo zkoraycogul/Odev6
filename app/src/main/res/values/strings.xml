@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetflixCopy</string>
+    <string name="ara_name">Ara</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="soon">Çok Yakında</string>
+    <string name="downloads">İndirilenler</string>
+    <string name="dahaFazla">Daha Fazla</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

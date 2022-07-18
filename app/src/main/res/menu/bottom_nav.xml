@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home"
+        android:title="@string/home"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/ara_name"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@drawable/playsoon"
+        android:title="@string/soon"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/downloads"
+        android:title="@string/downloads"
+        android:visible="true" />
+
+    <item
+        android:icon="@drawable/daha_fazla"
+        android:title="@string/dahaFazla"
+        android:visible="true" />
+
+
+
+</menu>
